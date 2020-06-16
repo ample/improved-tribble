@@ -5,6 +5,6 @@
 
 [[redirects]]
   from = "/*"
-  to = "https://www.crossroads.net/:splat"
+  to = "https://www.chef.io/:splat"
   status = 200
   force = false 
