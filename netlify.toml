@@ -1,0 +1,10 @@
+  
+[build]
+  command = "npm run build"
+  publish = "public/"
+
+[[redirects]]
+  from = "/*"
+  to = "https://www.crossroads.net/:splat"
+  status = 200
+  force = false 
